@@ -2,7 +2,7 @@
 ## Predicción del Riesgo de Diabetes con la Metodología TDSP
 
 **Materia:** Metodología de la Investigación
-**Autores:** Fabiola López Velázquez · Jorge Luis Ortiz Libreros · Joshua Iván Olivares Blanco
+**Autores:** Joshua Iván Olivares Blanco · Fabiola López Velázquez · Jorge Luis Ortiz Libreros 
 
 ## Descripción
 
